@@ -7,7 +7,7 @@ public class bai2 {
         Scanner scanner = new Scanner(System.in);
 
         int x1 = 1000, x2 = 1250, x3 = 1800, x4 = 2500;
-        System.out.println("hello");
+
         do {
             System.out.print("Nhap so dien trong 1 thang: ");
             sodien = scanner.nextFloat();
